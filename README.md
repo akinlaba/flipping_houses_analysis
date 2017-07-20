@@ -44,4 +44,5 @@ We will be looking for the following things:
     - Clearly outline your modeling strategy in response to the questions
     - Explain your results to a technical audience.
 
+- You will also be doing a 4 minute technical presentation.  Assume you are presenting to the head of data science at the real estate company's head company.  This should be in google slides.  Data of presentation to be confirmed (but will not be before project notebook is due).
 ---
